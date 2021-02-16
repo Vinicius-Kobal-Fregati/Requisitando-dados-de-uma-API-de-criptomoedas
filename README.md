@@ -32,20 +32,19 @@ O princípio dele não era HTML5 e CSS3, então ficou com uma estética bem simp
 
 ### Página inicial:
 
-<img src="GitHub img/Imagem 1.PNG">
+<img src="./GitHub img/Imagem 1.png">
 
 
 
 ### Página principal:
 
-<img src="GitHub img/Imagem 2.PNG">
+<img src="./GitHub img/Imagem 2.png">
 
 
 
-<img src="GitHub img/Imagem 3.PNG">
+<img src="./GitHub img/Imagem 3.png">
 
-<img src="GitHub img/Imagem 4.PNG">
-
+<img src="./GitHub img/Imagem 4.png">
 
 
 ## Pontos de melhoria:
@@ -56,7 +55,7 @@ Acredito que a melhoria mais exigida seria na estética pois ficou realmente sim
 
 ## Como o projeto estava no início
 
-<img src="./GitHub img/Imagem 5.PNG">
+<img src="./GitHub img/Imagem 5.png">
 
 
 

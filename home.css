@@ -1,0 +1,41 @@
+:root{ /*Vamos guardar variáveis aqui dentro, as cores. Como vamos utilizar as mesmas em vários locais, é interessante criar uma variável para isso.*/
+    --vermelho: #E50914;
+    --preto: #141414;
+}
+
+* { /* '*' Se refere a todo documento da página, aqui vamos resetar estilos pré prontos*/
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /*Aqui faz com que os elementos em tela tenham exatamente o tamanho que foi definido*/
+
+} /*Por padrão, o reset vem primeiro*/
+
+/*Elementos base*/
+body{
+    background-image: url(assets/home.jfif); /*Dessa forma que se utiliza variáveis no css*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Arial', Times, serif; /*Poderia usar alguma fonte externa do Google Fonts ou outro site.*/
+    color: white;
+    font-weight: bold;
+}
+
+header{
+    margin-top: 2%;
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 18%;
+}
+
+.principal{
+    color: white;
+ 
+}
+
+div{
+    align-items: center;
+    text-align: center;
+    text-justify: center;
+    font-size: 30px;
+
+}
